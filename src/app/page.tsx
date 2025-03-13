@@ -198,7 +198,6 @@ export default function Home() {
   <>
       <div className="App">
         <div className="banner adjust-padding-div">
-          <p>Testing!!!</p>
           <PImage 
             className="icon-image" 
             src="/images/singapore-lion.png"
