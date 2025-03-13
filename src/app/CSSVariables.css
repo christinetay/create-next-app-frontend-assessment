@@ -1,0 +1,48 @@
+:root {
+  /* ===== color ===== */
+  --main-bg-color: #FFFFFF;
+  --main-shadow-color: #F7F7F7;
+  --main-link-color: #686868;
+  --primary-white: #FFFFFF;
+  --primary-black: #282828;
+  --primary-blue: #1C76D5;
+  --primary-grey: #5B5B5B;
+  --secondary-grey: #A3A3A3;
+  --tertiary-grey: #F0F0F0;
+  
+
+  /* ===== font-family ===== */
+  --primary-font-family: "Open Sans";
+  --secondary-font-family: "Source Sans Pro";
+
+
+  /* ===== font-size ===== */
+  --primary-font-size: 9.89px;
+  --secondary-font-size: 14px;
+  --tertiary-font-size: 18px;
+  --title-font-size: 22px;
+  --normal-font-size: 16px;
+
+
+  /* ===== font-weight ===== */
+  --primary-font-weight: 200;
+  --secondary-font-weight: 400;
+  --tertiary-font-weight: 600;
+
+
+  /* ===== letter-space ===== */
+  --zero-letter-space: 0px;
+  --primary-letter-space: 0.5px;
+  --normal-letter-space: 0.14px;
+  --link-letter-space: 0.12px;
+
+
+  /* ===== line-height ===== */
+  --primary-line-height: 12.43px;
+  --secondary-line-height: 26px;
+  --title-line-height: 28px;
+  --normal-line-height: 24px;
+
+  /* ===== icon height or width ===== */
+  --primary-icon-size: 16px;
+}
