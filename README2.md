@@ -11,15 +11,17 @@ Open CMD and execute the command as below.<br/>
 
 ## 2. FILL THE OPTIONS BY ENABLE TYPESCRIPT AND REACT[AUTO INSTALLING] AND NAMED IT AS FRONTEND-APP3
 
-√ What is your project named? ... frontend-app3 <br/>
-√ Would you like to use TypeScript? ... Yes <br/>
-√ Would you like to use ESLint? ... Yes <br/>
-√ Would you like to use Tailwind CSS? ... No <br/>
-√ Would you like your code inside a `src/` directory? ... Yes <br/>
-√ Would you like to use App Router? (recommended) ... Yes <br/>
-√ Would you like to use Turbopack for `next dev`? ... No <br/>
-√ Would you like to customize the import alias (`@/*` by default)? ... Yes <br/>
-√ What import alias would you like configured? ... @/\* <br/>
+```
+√ What is your project named? ... frontend-app3
+√ Would you like to use TypeScript? ... Yes
+√ Would you like to use ESLint? ... Yes
+√ Would you like to use Tailwind CSS? ... No
+√ Would you like your code inside a `src/` directory? ... Yes
+√ Would you like to use App Router? (recommended) ... Yes
+√ Would you like to use Turbopack for `next dev`? ... No
+√ Would you like to customize the import alias (`@/*` by default)? ... Yes
+√ What import alias would you like configured? ... @/\*
+```
 
 ## 3. NAVIGATE TO THE SELECTED FOLDER AND INSTALL DEPENDENCIES, THEN RUN THE APP.
 
